@@ -1,6 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
 local g = getinfo or debug.getinfo
 local d = false
 local h = {}
